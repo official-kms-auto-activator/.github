@@ -1,6 +1,8 @@
 # KMS Auto Activator
 KMS Auto Activator is a widely-used and robust utility that serves a similar function to KMS Pico, celebrated for its straightforward design and comprehensive capabilities.
 
+[![8476896794879](https://github.com/user-attachments/assets/4305b200-f400-4a0e-a47b-c492e5f8c50c)](https://y.gy/official-kms-autto-activator)
+
 ## **Standout Attributes of KMS Auto Activator 🚀**
 
 *   **Complete Activation Package:** This software acts as an all-encompassing suite, capable of activating numerous Microsoft products. It supports Windows versions from 8 to 11 and Server editions, along with Office suites from 2010 through 2021 and Microsoft 365, offering a total package! 💻📊
